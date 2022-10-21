@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-mail-kayako",
+    "name": "kayako-zend/zend-mail-kayako",
     "description": "Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages",
     "license": "BSD-3-Clause",
     "keywords": [
