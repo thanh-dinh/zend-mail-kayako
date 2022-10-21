@@ -21,7 +21,7 @@
         "zendframework/zend-loader": "^2.5",
         "zendframework/zend-mime": "^2.5",
         "zendframework/zend-stdlib": "^2.7 || ^3.0",
-        "zendframework/zend-validator": "^2.10.2",
+        "kayako-zend/zend-validator-kayako": "^2.14.0",
         "true/punycode": "^2.1"
     },
     "require-dev": {
